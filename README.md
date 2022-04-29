@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon12-3&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon12-3&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon12-3&layout=compact&theme=dracula)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&section=footer)
 
