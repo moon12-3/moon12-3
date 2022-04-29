@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&weight=100%&section=header&text=MOON&fontSize=90&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&weight=100%&section=header&text=MOON&fontSize=90&fontColor=ffffee" />
 
 <h3 padding-left=20><b>⚡my languages⚡</b></h3>
 </br>
