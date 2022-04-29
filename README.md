@@ -12,6 +12,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 
+<br>
+
+<h3>⚡me⚡</h3>
+<p>
+<a href="https://www.instagram.com/fack_ka/" target="_blank"><img src="https://img.shields.io/badge/Instagram-cc0066?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
+<a href="s2123@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-666666?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moon12-3&show_icons=true&theme=dracula)
