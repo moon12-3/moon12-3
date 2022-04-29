@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&section=header&text=MOON&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&weight=100%&section=header&text=MOON&fontSize=90" />
 
-<h3 align="center"><b>⚡my languages⚡</b></h3>
+<h3 padding-left=20><b>⚡my languages⚡</b></h3>
 </br>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Kotlin-8b00cc?style=flat-square&logo=Kotlin&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JAVA-cc6600?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
