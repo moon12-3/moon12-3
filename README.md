@@ -17,7 +17,6 @@
 <h3>⚡introduce me⚡</h3>
 <p>
 <a href="https://www.instagram.com/fack_ka/" target="_blank"><img src="https://img.shields.io/badge/Instagram-cc0066?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
-<a href="s2123@e-mirim.hs.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-666666?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 
 <br><br>
 
